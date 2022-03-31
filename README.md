@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 🌱 I’m currently learning HTML CSS und JavaScript
+### 👯 I’m looking to collaborate with companies to improve my skills!
 
 <!--
 **IvanChiosa/IvanChiosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
