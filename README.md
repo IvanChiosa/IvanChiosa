@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning HTML CSS und JavaScript
 ### 👯 I’m looking to collaborate with companies to improve my skills!
-### 📫 How to reach me: i85chiosa@gmail.com ![image](https://user-images.githubusercontent.com/52638054/162219763-c0075e1d-1705-42dc-9ecf-efd4b992488b.png)
+### 📫 How to reach me: i85chiosa@gmail.com
 ### ![image](https://user-images.githubusercontent.com/52638054/162220780-1d9799be-def1-467d-a9b0-3e44e68343c4.png)
 <a href="https://iconscout.com/icons/linkedin" target="_blank">Linkedin Icon</a> by <a href="https://iconscout.com/contributors/jagathish">Jagathish Saravanan</a> on <a href="https://iconscout.com">Iconscout</a>
 <!--
