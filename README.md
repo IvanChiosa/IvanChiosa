@@ -2,6 +2,8 @@
 ### 🌱 I’m currently learning HTML CSS und JavaScript
 ### 👯 I’m looking to collaborate with companies to improve my skills!
 ### 📫 How to reach me: i85chiosa@gmail.com
+###  Languages and Tools:
+###                      
 <!--
 **IvanChiosa/IvanChiosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
