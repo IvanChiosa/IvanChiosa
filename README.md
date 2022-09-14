@@ -1,5 +1,5 @@
 ### 👋 Hi I'm Ivan
-### 🌱 I’m currently learning Web Developer @ DCI
+### 🌱 I’m currently learning Web Develope https://career.digitalcareerinstitute.org/
 ### 👯 I’m looking to collaborate with companies to improve my skills!
 ### 📫 How to reach me: i85chiosa@gmail.com
 
