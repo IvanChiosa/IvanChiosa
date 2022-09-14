@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently learning HTML CSS und JavaScript
+### 🌱 I’m currently learning Web Developer @ DCI
 ### 👯 I’m looking to collaborate with companies to improve my skills!
 ### 📫 How to reach me: i85chiosa@gmail.com
 <hr>
@@ -17,6 +17,8 @@
     <a href="https://nodejs.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/03899ca15bc7682cad570e2638be85926777122dce4b90151d5efc897660d5cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e6f64656a732e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/nodejs.png" style="max-width: 100%;"> </a>
   <a href="https://icons8.com/icon/74402/mongodb" rel="nofollow"><img src="https://camo.githubusercontent.com/d8588c99376cf49e9767a222b315a5d37ba5ae1b3cb192a13aa66ff406d692e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d74616c2d72657669766f2d736861646f772d74616c2d72657669766f2f33382f3030303030302f65787465726e616c2d6d6f6e676f64622d612d63726f73732d706c6174666f726d2d646f63756d656e742d6f7269656e7465642d64617461626173652d70726f6772616d2d6c6f676f2d736861646f772d74616c2d72657669766f2e706e67" data-canonical-src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" style="max-width: 100%;"></a>
 </p>
+
+<hr> </hr>
 
 <!--
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
