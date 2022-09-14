@@ -2,6 +2,8 @@
 ### 🌱 I’m currently learning HTML CSS und JavaScript
 ### 👯 I’m looking to collaborate with companies to improve my skills!
 ### 📫 How to reach me: i85chiosa@gmail.com
+<hr>
+</hr>
 ###  Languages and Tools: Icons dart
 
 <p align="left" dir="auto">
