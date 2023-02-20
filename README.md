@@ -1,7 +1,8 @@
 # 👋 Hi I'm Ivan,
-## 😄 it’s really great to meet you!
+### 😄 it’s really great to meet you!
 ### 🌱 I studied for 14 months web developer 👨‍💻️ at the Digital Career Institute👇️
-### Link: https://digitalcareerinstitute.org/courses/web-development/
+#### Link: https://digitalcareerinstitute.org/courses/web-development/
+##
 ## I have worked with👇️ 
 #### HTML5, Javascript, CSS
 ## Framework👇️
