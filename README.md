@@ -1,12 +1,21 @@
-## 👋Hi I'm Ivan,
-#### 😄it’s really great to meet you!
-#### 🌱I studied for 14 months web developer 👨‍💻️ at the Digital Career Institute👉 https://digitalcareerinstitute.org/courses/web-development/
+## 👋 Hi I'm Ivan,
+#### 😄 it’s really great to meet you!
+####
+#### 🌱 I studied for 14 months web developer 👨‍💻️ at the Digital Career Institute👇️
+### Link: https://digitalcareerinstitute.org/courses/web-development/
+### I have worked with 👇️ 
+#### HTML5, Javascript, CSS
+### Framework 👇️
+#### Bootstrap, React, Angular
+### MERN Application 👇️
 #### MongoDB - document database
-Express(.js) - Node.js web framework
-React(.js) - a client-side JavaScript framework
-Node(.js) - the premier JavaScript web server
+#### Express(.js) - Node.js web framework
+#### React(.js) - a client-side JavaScript framework
+#### Node(.js) - the premier JavaScript web server
+####
 #### 👯 I’m looking to collaborate with companies to improve my skills!
 #### I‘m working efficiently in a team and develop myself further through my own initiative and new ideas.
+####
 #### I look forward to connecting with you.
 #### 📫 How to reach me👉 i85chiosa@gmail.com
 
