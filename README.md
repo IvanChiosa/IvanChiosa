@@ -2,8 +2,9 @@
 ### 😄 it’s really great to meet you!
 ### 🌱 I studied for 14 months web developer 👨‍💻️ at the Digital Career Institute👇️
 #### Link: https://digitalcareerinstitute.org/courses/web-development/
-##
-##
+
+<hr> </hr>
+
 ## I have worked with👇️ 
 #### HTML5, Javascript, CSS
 ## Framework👇️
