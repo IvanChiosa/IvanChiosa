@@ -1,4 +1,4 @@
-## 👋 Hi I'm Ivan,
+# 👋 Hi I'm Ivan,
 #### 😄 it’s really great to meet you!
 ####
 #### 🌱 I studied for 14 months web developer 👨‍💻️ at the Digital Career Institute👇️
