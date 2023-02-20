@@ -1,6 +1,6 @@
 # 👋 Hi I'm Ivan,
 ### 😄 it’s really great to meet you!
-### 👨‍💻️ I studied web developer at the Digital Career Institute👇️
+### 👨‍💻️ I studied web development at the Digital Career Institute👇️
 #### 🖇️ https://digitalcareerinstitute.org/courses/web-development/
 
 <hr> </hr>
