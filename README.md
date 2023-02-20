@@ -11,6 +11,9 @@
 #### 💥️ Express(.js) - Node.js web framework
 #### 💥️ React(.js) - a client-side JavaScript framework
 #### 💥️ Node(.js) - the premier JavaScript web server
+##
+##
+##
 #### 👯 I’m looking to collaborate with companies to improve my skills!
 #### 💼️ I‘m working efficiently in a team and develop myself further through my own initiative and new ideas.
 #### 🌏️ I look forward to connecting with you.
