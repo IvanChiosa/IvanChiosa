@@ -7,7 +7,7 @@
 
 ## I have worked with👇️ 
 #### HTML5, Javascript and CSS
-## Framework👇️
+## Frameworks👇️
 #### Bootstrap, React and Angular
 ## MERN Application👇️
 #### 💥️ MongoDB - document database
