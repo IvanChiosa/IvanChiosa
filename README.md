@@ -18,7 +18,7 @@
 <hr> </hr>
 
 #### 🕵️ I’m looking to collaborate with companies to improve my skills!
-#### 💼️ I‘m working efficiently in a team and develop myself further through my own initiative and new ideas.
+#### 💼️ Working efficiently in a team and develop myself further through my own initiative and new ideas.
 #### 🌏️ I look forward to connecting with you.
 #### 📫 How to reach me👉 Linkedin: https://www.linkedin.com/in/ivanchiosa/?locale=en_US
 #### 📧️ How to reach me👉 E-mail: i85chiosa@gmail.com
