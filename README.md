@@ -35,7 +35,7 @@
     <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
     <a href="https://sass.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FSpring_Framework&psig=AOvVaw1QzT9jcEMSWJjUaFkykcQ4&ust=1700503970352000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCZ6ovV0IIDFQAAAAAdAAAAABAE)"/></a>
+   
     <a href="https://icons8.com/icon/74402/mongodb"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/></a>
 </p>
 
