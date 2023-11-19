@@ -48,7 +48,7 @@
 ![Testing](https://img.shields.io/badge/testing-%2320232a.svg?style=for-the-badge&logo=YOUR_TESTING_LOGO&logoColor=YOUR_LOGO_COLOR)
 ![Debugging](https://img.shields.io/badge/debugging-%a6bb7a.svg?style=for-the-badge&logo=YOUR_DEBUGGING_LOGO&logoColor=YOUR_LOGO_COLOR)
 ![Debugging](https://img.shields.io/badge/debugging-%2345678a.svg?style=for-the-badge&logo=YOUR_DEBUGGING_LOGO&logoColor=%6DB33F)
-![DevOps](https://img.shields.io/badge/DevOps-%a600ff56.svg?style=for-the-badge&logo=YOUR_DEVOPS_LOGO&logoColor=%a600ff)
+![DevOps](https://img.shields.io/badge/DevOps-%166,0,255.svg?style=for-the-badge&logo=YOUR_DEVOPS_LOGO&logoColor=%a600ff)
 
 ## Version Control👇️
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
