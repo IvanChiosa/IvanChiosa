@@ -1,7 +1,7 @@
 # 👋 Hi I'm Ivan,
 ### 😄 it’s really great to meet you!
-### 👨‍💻️ I studied web development at the Digital Career Institute👇️
-#### 🖇️ https://digitalcareerinstitute.org/courses/web-development/
+### 👨‍💻️ I studied web development at the neue fische - School and Pool for Digital Talent👇️
+#### 🖇️ https://www.neuefische.de/bootcamp/java-development
 
 <hr> </hr>
 
@@ -27,6 +27,7 @@
 
 ## Languages and Tools👇️
 <p align="left">
+    <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java Logo"></a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
