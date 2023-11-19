@@ -47,7 +47,7 @@
 ![Spring](https://img.shields.io/badge/spring-%2320232a.svg?style=for-the-badge&logo=spring&logoColor=%6DB33F)
 ![Testing](https://img.shields.io/badge/testing-%2320232a.svg?style=for-the-badge&logo=YOUR_TESTING_LOGO&logoColor=YOUR_LOGO_COLOR)
 ![Debugging](https://img.shields.io/badge/debugging-%2320232a.svg?style=for-the-badge&logo=YOUR_DEBUGGING_LOGO&logoColor=YOUR_LOGO_COLOR)
-![Debugging](https://img.shields.io/badge/debugging-%2320232a.svg?style=for-the-badge&logo=YOUR_DEBUGGING_LOGO&logoColor=blue)
+![Debugging](https://img.shields.io/badge/debugging-%2345678a.svg?style=for-the-badge&logo=YOUR_DEBUGGING_LOGO&logoColor=%6DB33F)
 ![DevOps](https://img.shields.io/badge/DevOps-%2320232a.svg?style=for-the-badge&logo=YOUR_DEVOPS_LOGO&logoColor=white)
 
 ## Version Control👇️
