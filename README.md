@@ -8,7 +8,7 @@
 ## I have worked with👇️ 
 #### HTML5, Javascript and CSS
 ## Frameworks👇️
-#### Bootstrap, React and Angular
+#### Bootstrap, React
 ## MERN Application👇️
 #### 💥️ MongoDB - document database
 #### 💥️ Express(.js) - Node.js web framework
@@ -45,7 +45,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%2320232a.svg?style=for-the-badge&logo=spring&logoColor=%6DB33F)
-![Testing](https://img.shields.io/badge/testing-%2861975a.svg?style=for-the-badge&logo=YOUR_TESTING_LOGO&logoColor=YOUR_LOGO_COLOR)
+![Testing](https://img.shields.io/badge/testing-%2320232a.svg?style=for-the-badge&logo=YOUR_TESTING_LOGO&logoColor=YOUR_LOGO_COLOR)
 ![Debugging](https://img.shields.io/badge/debugging-%a6bb7a.svg?style=for-the-badge&logo=YOUR_DEBUGGING_LOGO&logoColor=YOUR_LOGO_COLOR)
 ![DevOps](https://img.shields.io/badge/DevOps-%2345678a.svg?style=for-the-badge&logo=YOUR_DEVOPS_LOGO&logoColor=%2345678a)
 
