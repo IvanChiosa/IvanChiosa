@@ -45,6 +45,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%2320232a.svg?style=for-the-badge&logo=spring&logoColor=%6DB33F)
+![Testing](https://img.shields.io/badge/testing-%2320232a.svg?style=for-the-badge&logo=YOUR_TESTING_LOGO&logoColor=YOUR_LOGO_COLOR)
 
 ## Version Control👇️
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
