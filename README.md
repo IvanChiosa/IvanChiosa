@@ -35,6 +35,7 @@
     <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
     <a href="https://sass.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+    <a href="https://spring.io/" target="_blank"><img src="URL_OF_SPRING_LOGO" alt="Spring Framework Logo" width="70"></a>
     <a href="https://icons8.com/icon/74402/mongodb"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/></a>
 </p>
 
