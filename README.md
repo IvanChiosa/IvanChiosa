@@ -13,6 +13,7 @@
 #### React
 ## Datenbank👇️
 #### MongoDB, NoSQL
+
 ## MERN Application👇️
 #### 💥️ MongoDB: Document-oriented database
 #### 💥️ Express.js: Node.js web framework
@@ -22,10 +23,10 @@
 <hr> </hr>
 
 #### 🕵️ Open to collaboration with companies for skill enhancement!
-#### 💼️ Efficient team player, committed to self-development and innovative contributions.
-#### 🌏️ Looking forward to connecting with you.
-#### 📫 Contact me on LinkedIn👉 LinkedIn https://www.linkedin.com/in/ivanchiosa/?locale=en_US
-#### 📧️ Email👉 E-mail: i85chiosa@gmail.com
+#### 💼️ Efficient team player, committed to self-development and innovative contributions
+#### 🌏️ Looking forward to connecting with you
+#### 📫 Contact me on LinkedIn👉 https://www.linkedin.com/in/ivanchiosa/?locale=en_US
+#### 📧️ Email👉 i85chiosa@gmail.com
 
 <hr> </hr>
 
