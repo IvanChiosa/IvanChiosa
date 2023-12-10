@@ -9,15 +9,15 @@
 #### Java, JavaScript/TypeScript, HTML5, and CSS
 ## Framework👇️
 #### Bootstrap, Spring
-## JavaScript-Bibliothek
+## JavaScript-Bibliothek👇️
 #### React
-#### Datenbank
-## MongoDB, NoSQL
+## Datenbank👇️
+#### MongoDB, NoSQL
 ## MERN Application👇️
-#### 💥️ MongoDB - document database
-#### 💥️ Express(.js) - Node.js web framework
-#### 💥️ React(.js) - a client-side JavaScript framework
-#### 💥️ Node(.js) - the premier JavaScript web server
+#### 💥️ MongoDB: Document-oriented database
+#### 💥️ Express.js: Node.js web framework
+#### 💥️ React.js: Client-side JavaScript
+#### 💥️ Node.js: Premier JavaScript web server
 
 <hr> </hr>
 
