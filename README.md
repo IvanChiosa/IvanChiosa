@@ -33,8 +33,8 @@
 ## Languages, Libraries/Frameworks👇️
 <p align="left">
     <a href="https://www.oracle.com/java/" target="_blank"><img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java Logo" width="70"></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript Logo" width="50"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="50" ></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript Logo" width="40"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="70" ></a>
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
