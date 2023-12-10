@@ -1,12 +1,12 @@
-# 👋 Hi I'm Ivan,
-### 😄 it’s really great to meet you!
-### 👨‍💻️ I studied web development at the neue fische - School and Pool for Digital Talent👇️
+# 👋 Hi, I'm Ivan!
+### 😄 It's a pleasure to meet you!
+### 👨‍💻️ I pursued web development at neue fische - School and Pool for Digital Talent.👇️
 #### 🖇️ https://www.neuefische.de/bootcamp/java-development
 
 <hr> </hr>
 
 ## I've worked with👇️ 
-#### Java, JavaScript/TypeScript, HTML5, and CSS
+#### Java, JavaScript/TypeScript, HTML5 and CSS
 ## Framework👇️
 #### Bootstrap, Spring
 ## JavaScript-Bibliothek👇️
@@ -21,11 +21,11 @@
 
 <hr> </hr>
 
-#### 🕵️ I’m looking to collaborate with companies to improve my skills!
-#### 💼️ Working efficiently in a team and develop myself further through my own initiative and new ideas.
-#### 🌏️ I look forward to connecting with you.
-#### 📫 How to reach me👉 Linkedin: https://www.linkedin.com/in/ivanchiosa/?locale=en_US
-#### 📧️ How to reach me👉 E-mail: i85chiosa@gmail.com
+#### 🕵️ Open to collaboration with companies for skill enhancement!
+#### 💼️ Efficient team player, committed to self-development and innovative contributions.
+#### 🌏️ Looking forward to connecting with you.
+#### 📫 Contact me on LinkedIn👉 LinkedIn https://www.linkedin.com/in/ivanchiosa/?locale=en_US
+#### 📧️ Email👉 E-mail: i85chiosa@gmail.com
 
 <hr> </hr>
 
