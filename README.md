@@ -30,7 +30,7 @@
 
 <hr> </hr>
 
-## Languages and Tools👇️
+## Languages, Libraries/Frameworks👇️
 <p align="left">
     <a href="https://www.oracle.com/java/" target="_blank"><img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java Logo" width="70"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -42,8 +42,6 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
     <a href="https://icons8.com/icon/74402/mongodb"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/></a>
 </p>
-
-## Labraries/Frameworks👇️
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
