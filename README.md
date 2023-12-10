@@ -33,6 +33,7 @@
 ## Languages, Libraries/Frameworks👇️
 <p align="left">
     <a href="https://www.oracle.com/java/" target="_blank"><img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java Logo" width="70"></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java Logo" width="70"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
@@ -53,6 +54,8 @@
 ![Testing](https://img.shields.io/badge/testing-%2320232a.svg?style=for-the-badge&logo=YOUR_TESTING_LOGO&logoColor=YOUR_LOGO_COLOR)
 ![Debugging](https://img.shields.io/badge/debugging-%a6bb7a.svg?style=for-the-badge&logo=YOUR_DEBUGGING_LOGO&logoColor=YOUR_LOGO_COLOR)
 ![DevOps](https://img.shields.io/badge/DevOps-%2345678a.svg?style=for-the-badge&logo=YOUR_DEVOPS_LOGO&logoColor=%2345678a)
+
+<hr> </hr> 
 
 ## Version Control👇️
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
