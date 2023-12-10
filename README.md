@@ -5,10 +5,14 @@
 
 <hr> </hr>
 
-## I have worked with👇️ 
-#### HTML5, Javascript and CSS
-## Frameworks👇️
-#### Bootstrap, React
+## I've worked with👇️ 
+#### Java, JavaScript/TypeScript, HTML5, and CSS
+## Framework👇️
+#### Bootstrap, Spring
+## JavaScript-Bibliothek
+#### React
+#### Datenbank
+## MongoDB, NoSQL
 ## MERN Application👇️
 #### 💥️ MongoDB - document database
 #### 💥️ Express(.js) - Node.js web framework
