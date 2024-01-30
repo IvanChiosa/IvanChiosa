@@ -95,30 +95,42 @@
 ![DevOps](https://img.shields.io/badge/DevOps-%234A154B.svg?style=for-the-badge&logo=devops&logoColor=white)  <!-- DevOps-Abzeichen -->
 
 
+### Languages, Libraries/Frameworks, and Version Control
 
+#### 🌐 Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+#### 🛠️ Libraries/Frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+#### 📊 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
 
+#### 🛠️ DevOps and Containerization
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-%23212B32.svg?style=for-the-badge&logo=yaml&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-%234A154B.svg?style=for-the-badge&logo=devops&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%23634DFF.svg?style=for-the-badge&logo=render&logoColor=white)
 
+#### 🧪 Testing
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-%232983D1.svg?style=for-the-badge&logo=mockito&logoColor=white)
+
+#### 📦 Version Control and Package Management
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Debugging](https://img.shields.io/badge/debugging-%23FADA5E.svg?style=for-the-badge&logo=debugging&logoColor=black)
+
+
+
 
 
 
