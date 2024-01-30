@@ -15,6 +15,7 @@
 - Database: MongoDB, NoSQL
 - DevOps: Docker, YAML for container orchestration
 - Testing: JUnit 5, Mockito, MockMvc
+- Frontend Styling: React Bootstrap, Font Awesome, React Player, MUI (Material-UI), Emotion, React Material-UI Carousel
   
 🎨 Frontend Styling:
 
