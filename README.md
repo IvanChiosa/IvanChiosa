@@ -17,15 +17,6 @@
 - Testing: JUnit 5, Mockito, MockMvc
 - Frontend Styling: React Bootstrap, Font Awesome, React Player, MUI (Material-UI), Emotion, React Material-UI Carousel
   
-🎨 Frontend Styling:
-
-- React Bootstrap
-- Font Awesome
-- React Player
-- MUI (Material-UI)
-- Emotion
-- React Material-UI Carousel
-
 ### Languages, Libraries/Frameworks, and Version Control
 #### 🌐 Programming Languages
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
