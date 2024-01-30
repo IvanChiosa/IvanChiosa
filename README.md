@@ -4,23 +4,10 @@
 🔗 [neue fische - Java Development Bootcamp](https://www.neuefische.de/bootcamp/java-development)
 
 🛠️ Skills:
-- Programming Languages:
-  - Java
-  - JavaScript/TypeScript
-- Frontend:
-  - HTML5
-  - CSS
-  - React
-  - Vite
-  - Axios
-  - React Router Dom
-- Backend:
-  - Spring (including Spring Initializr, Spring Web, Spring Reactive Web, Spring Boot DevTools)
-  - Maven
-  - Lombok
-- Database:
-  - MongoDB
-  - NoSQL
+- Programming Languages:Java, JavaScript/TypeScript
+- Frontend: HTML5, CSS, React, Vite, Axios, React Router Dom
+- Backend: Spring (including Spring Initializr, Spring Web, Spring Reactive Web, Spring Boot DevTools), Maven, Lombok
+- Database: MongoDB, NoSQL
 - DevOps:
   - Docker
   - YAML for container orchestration
@@ -37,19 +24,8 @@
 - Emotion
 - React Material-UI Carousel
 
-🔍 Open to collaborative opportunities for skill enhancement!
-
-💼️ Strong team player, dedicated to self-improvement and innovative solutions.
-
-🌏️ Eager to connect with fellow professionals and potential partners.
-
-📫 Contact me:
-- [LinkedIn](https://www.linkedin.com/in/ivanchiosa/?locale=en_US)
-- Email: i85chiosa@gmail.com
-
-🚀 I specialize in creating dynamic and responsive web applications with a focus on clean, efficient code and user-centric design. I'm always looking for new challenges and opportunities to grow my skills.
-
 ### Languages, Libraries/Frameworks, and Version Control
+<!-- 
 <p style="text-align: left;">
     <a href="https://www.oracle.com/java/" target="_blank"><img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java" width="50" height="50" style="vertical-align: middle;"></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript" width="50" height="50" style="vertical-align: middle;"></a>
@@ -62,6 +38,7 @@
     <a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50" style="vertical-align: middle;"></a>
     <a href="https://www.mongodb.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" width="50" height="50" style="vertical-align: middle;"></a>
 </p>
+-->
 
 #### 🌐 Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -99,6 +76,18 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%231C1E25.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+
+🔍 Open to collaborative opportunities for skill enhancement!
+
+💼️ Strong team player, dedicated to self-improvement and innovative solutions.
+
+🌏️ Eager to connect with fellow professionals and potential partners.
+
+📫 Contact me:
+- [LinkedIn](https://www.linkedin.com/in/ivanchiosa/?locale=en_US)
+- Email: i85chiosa@gmail.com
+
+🚀 I specialize in creating dynamic and responsive web applications with a focus on clean, efficient code and user-centric design. I'm always looking for new challenges and opportunities to grow my skills.
 
 <!--
 **IvanChiosa/IvanChiosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
