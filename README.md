@@ -65,6 +65,8 @@
 
 🚀 I specialize in creating dynamic and responsive web applications with a focus on clean, efficient code and user-centric design. I'm always looking for new challenges and opportunities to grow my skills.
 
+<!--
+
 <p style="text-align: left;">
     <a href="https://www.oracle.com/java/" target="_blank"><img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java" width="50" height="50" style="vertical-align: middle;"></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript" width="50" height="50" style="vertical-align: middle;"></a>
@@ -77,6 +79,8 @@
     <a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50" style="vertical-align: middle;"></a>
     <a href="https://www.mongodb.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" width="50" height="50" style="vertical-align: middle;"></a>
 </p>
+
+-->
 
 <hr/>
 
