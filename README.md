@@ -1,14 +1,20 @@
 👋 Hi, I'm Ivan!
+
 🌐 Web Developer | Graduate from neue fische - School for Digital Talent
+
 🔗 [neue fische - Java Development Bootcamp](https://www.neuefische.de/bootcamp/java-development)
+
 🛠️ Skills:
-- Programming Languages:Java, JavaScript/TypeScript
+
+- Programming Languages: Java, JavaScript/TypeScript
 - Frontend: HTML5, CSS, React, Vite, Axios, React Router Dom
 - Backend: Spring (including Spring Initializr, Spring Web, Spring Reactive Web, Spring Boot DevTools), Maven, Lombok
 - Database: MongoDB, NoSQL
 - DevOps: Docker, YAML for container orchestration
 - Testing: JUnit 5, Mockito, MockMvc
+- 
 🎨 Frontend Styling:
+
 - React Bootstrap
 - Font Awesome
 - React Player
