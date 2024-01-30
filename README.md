@@ -82,6 +82,19 @@
 ![Debugging](https://img.shields.io/badge/debugging-%a6bb7a.svg?style=for-the-badge&logo=YOUR_DEBUGGING_LOGO&logoColor=YOUR_LOGO_COLOR)
 ![DevOps](https://img.shields.io/badge/DevOps-%2345678a.svg?style=for-the-badge&logo=YOUR_DEVOPS_LOGO&logoColor=%2345678a)
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)  <!-- JUnit für Testing -->
+![Debugging](https://img.shields.io/badge/debugging-%23FADA5E.svg?style=for-the-badge&logo=debugging&logoColor=black)  <!-- Gelb für Debugging -->
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  <!-- Docker-Abzeichen -->
+![Render](https://img.shields.io/badge/Render-%23634DFF.svg?style=for-the-badge&logo=render&logoColor=white)  <!-- Render-Abzeichen -->
+![DevOps](https://img.shields.io/badge/DevOps-%234A154B.svg?style=for-the-badge&logo=devops&logoColor=white)  <!-- DevOps-Abzeichen -->
+
+
 <hr> </hr> 
 
 ## Version Control👇️
