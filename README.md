@@ -4,12 +4,30 @@
 🔗 [neue fische - Java Development Bootcamp](https://www.neuefische.de/bootcamp/java-development)
 
 🛠️ Skills:
-- Programming Languages: Java, JavaScript/TypeScript
-- Frontend: HTML5, CSS, React, Vite, Axios, React Router Dom
-- Backend: Spring (including Spring Initializr, Spring Web, Spring Reactive Web, Spring Boot DevTools), Maven, Lombok
-- Database: MongoDB, NoSQL
-- DevOps: Docker, YAML for container orchestration
-- Testing: JUnit 5, Mockito, MockMvc
+- Programming Languages:
+  - Java,
+  - JavaScript/TypeScript
+- Frontend:
+  - HTML5,
+  - CSS,
+  - React,
+  - Vite,
+  - Axios,
+  - React Router Dom
+- Backend:
+  - Spring (including Spring Initializr, Spring Web, Spring Reactive Web, Spring Boot DevTools),
+  - Maven,
+  - Lombok
+- Database:
+  - MongoDB,
+  - NoSQL
+- DevOps:
+  - Docker,
+  - YAML for container orchestration
+- Testing:
+  - JUnit 5,
+  - Mockito,
+  - MockMvc
 
 🎨 Frontend Styling:
 - React Bootstrap, Font Awesome, React Player, MUI (Material-UI), Emotion, React Material-UI Carousel
@@ -33,37 +51,6 @@
 - Deployment on [Render.com](https://render.com)
 
 🚀 I specialize in creating dynamic and responsive web applications with a focus on clean, efficient code and user-centric design. I'm always looking for new challenges and opportunities to grow my skills.
-
-
-# 👋 Hi, I'm Ivan!
-### 😄 It's a pleasure to meet you!
-### 👨‍💻️ I pursued web development at neue fische - School and Pool for Digital Talent.👇️
-#### 🖇️ https://www.neuefische.de/bootcamp/java-development
-
-<hr> </hr>
-
-## I've worked with👇️ 
-#### Java, JavaScript/TypeScript, HTML5 and CSS
-## Framework👇️
-#### Bootstrap, Spring
-## JavaScript-Bibliothek👇️
-#### React
-## Datenbank👇️
-#### MongoDB, NoSQL
-
-## MERN Application👇️
-#### 💥️ MongoDB: Document-oriented database
-#### 💥️ Express.js: Node.js web framework
-#### 💥️ React.js: Client-side JavaScript
-#### 💥️ Node.js: Premier JavaScript web server
-
-<hr> </hr>
-
-#### 🕵️ Open to collaboration with companies for skill enhancement!
-#### 💼️ Efficient team player, committed to self-development and innovative contributions
-#### 🌏️ Looking forward to connecting with you
-#### 📫 Contact me on LinkedIn👉 https://www.linkedin.com/in/ivanchiosa/?locale=en_US
-#### 📧️ Email👉 i85chiosa@gmail.com
 
 <hr> </hr>
 
