@@ -73,6 +73,8 @@
 - [LinkedIn](https://www.linkedin.com/in/ivanchiosa/?locale=en_US)
 - Email: i85chiosa@gmail.com
 
+- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/ivanchiosa/?locale=en_US), Email: i85chiosa@gmail.com
+
 🚀 I specialize in creating dynamic and responsive web applications with a focus on clean, efficient code and user-centric design. I'm always looking for new challenges and opportunities to grow my skills.
 
 <p style="text-align: left;">
@@ -88,7 +90,8 @@
     <a href="https://www.mongodb.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" width="50" height="50" style="vertical-align: middle;"></a>
 </p>
 
-## © 2024 Ivan Chiosa, alle Rechte vorbehalten.
+<hr/>
+### © 2024 Ivan Chiosa, all rights reserved.
 
 <!--
 **IvanChiosa/IvanChiosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
