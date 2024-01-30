@@ -88,7 +88,7 @@
 
 <hr/>
 
-## © 2024 Ivan Chiosa, all rights reserved.
+### © 2024 Ivan Chiosa, all rights reserved.
 
 <!--
 **IvanChiosa/IvanChiosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
