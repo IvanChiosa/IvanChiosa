@@ -88,11 +88,7 @@
     <a href="https://www.mongodb.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" width="50" height="50" style="vertical-align: middle;"></a>
 </p>
 
-#### © 2024 Ivan Chiosa, alle Rechte vorbehalten.
-### © 2024 Ivan Chiosa, alle Rechte vorbehalten.
 ## © 2024 Ivan Chiosa, alle Rechte vorbehalten.
-##### © 2024 Ivan Chiosa, alle Rechte vorbehalten.
-# © 2024 Ivan Chiosa, alle Rechte vorbehalten.
 
 <!--
 **IvanChiosa/IvanChiosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
