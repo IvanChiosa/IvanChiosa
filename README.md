@@ -1,3 +1,40 @@
+👋 Hi, I'm Ivan!
+
+🌐 Web Developer | Graduate from neue fische - School for Digital Talent
+🔗 [neue fische - Java Development Bootcamp](https://www.neuefische.de/bootcamp/java-development)
+
+🛠️ Skills:
+- Programming Languages: Java, JavaScript/TypeScript
+- Frontend: HTML5, CSS, React, Vite, Axios, React Router Dom
+- Backend: Spring (including Spring Initializr, Spring Web, Spring Reactive Web, Spring Boot DevTools), Maven, Lombok
+- Database: MongoDB, NoSQL
+- DevOps: Docker, YAML for container orchestration
+- Testing: JUnit 5, Mockito, MockMvc
+
+🎨 Frontend Styling:
+- React Bootstrap, Font Awesome, React Player, MUI (Material-UI), Emotion, React Material-UI Carousel
+
+🔍 Open to collaborative opportunities for skill enhancement!
+
+💼️ Strong team player, dedicated to self-improvement and innovative solutions.
+
+🌏️ Eager to connect with fellow professionals and potential partners.
+
+📫 Contact me:
+- [LinkedIn](https://www.linkedin.com/in/ivanchiosa/?locale=en_US)
+- Email: i85chiosa@gmail.com
+
+🛠️ Additional Tools and Technologies:
+- IntelliJ IDEA
+- Node.js (Version 21.3.0)
+- JAR packaging
+- Frontend project initialization with npx create-vite (React TypeScript Template)
+- Comprehensive testing and deployment strategies, including Integration Tests with MockMvc and Unit Tests with Mockito
+- Deployment on [Render.com](https://render.com)
+
+🚀 I specialize in creating dynamic and responsive web applications with a focus on clean, efficient code and user-centric design. I'm always looking for new challenges and opportunities to grow my skills.
+
+
 # 👋 Hi, I'm Ivan!
 ### 😄 It's a pleasure to meet you!
 ### 👨‍💻️ I pursued web development at neue fische - School and Pool for Digital Talent.👇️
