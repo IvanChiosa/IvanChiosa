@@ -12,7 +12,7 @@
 - Database: MongoDB, NoSQL
 - DevOps: Docker, YAML for container orchestration
 - Testing: JUnit 5, Mockito, MockMvc
-- 
+  
 🎨 Frontend Styling:
 
 - React Bootstrap
@@ -60,50 +60,6 @@
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-%231C1E25.svg?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 
-
-
-
-
-
-
-
-#### 🌐 Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### 🛠️ Libraries/Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### 📊 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
-
-#### 🛠️ DevOps and Containerization
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-%23212B32.svg?style=for-the-badge&logo=yaml&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-%234A154B.svg?style=for-the-badge&logo=devops&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%23634DFF.svg?style=for-the-badge&logo=render&logoColor=white)
-
-#### 🧪 Testing
-![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-%232983D1.svg?style=for-the-badge&logo=mockito&logoColor=white)
-
-#### 📦 Version Control and Package Management
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Debugging](https://img.shields.io/badge/debugging-%23FADA5E.svg?style=for-the-badge&logo=debugging&logoColor=black)
-
-### 🧰 Text Editors and IDEs
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-%231C1E25.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-
 🔍 Open to collaborative opportunities for skill enhancement!
 
 💼️ Strong team player, dedicated to self-improvement and innovative solutions.
@@ -128,6 +84,8 @@
     <a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50" style="vertical-align: middle;"></a>
     <a href="https://www.mongodb.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" width="50" height="50" style="vertical-align: middle;"></a>
 </p>
+---
+<p>© 2024 Ivan Chiosa, alle Rechte vorbehalten.</p>
 
 <!--
 **IvanChiosa/IvanChiosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
