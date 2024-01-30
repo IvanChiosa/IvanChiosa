@@ -69,11 +69,7 @@
 
 🌏️ Eager to connect with fellow professionals and potential partners.
 
-📫 Contact me:
-- [LinkedIn](https://www.linkedin.com/in/ivanchiosa/?locale=en_US)
-- Email: i85chiosa@gmail.com
-
-- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/ivanchiosa/?locale=en_US), Email: i85chiosa@gmail.com
+📫 Contact me: [LinkedIn](https://www.linkedin.com/in/ivanchiosa/?locale=en_US) or Email: i85chiosa@gmail.com
 
 🚀 I specialize in creating dynamic and responsive web applications with a focus on clean, efficient code and user-centric design. I'm always looking for new challenges and opportunities to grow my skills.
 
@@ -91,7 +87,8 @@
 </p>
 
 <hr/>
-### © 2024 Ivan Chiosa, all rights reserved.
+
+## © 2024 Ivan Chiosa, all rights reserved.
 
 <!--
 **IvanChiosa/IvanChiosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
