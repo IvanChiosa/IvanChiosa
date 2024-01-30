@@ -69,7 +69,7 @@
 
 🌏️ Eager to connect with fellow professionals and potential partners.
 
-📫 Contact me: [LinkedIn](https://www.linkedin.com/in/ivanchiosa/?locale=en_US) or Email: i85chiosa@gmail.com
+📫 Contact me:  [LinkedIn](https://www.linkedin.com/in/ivanchiosa/?locale=en_US)    or Email: i85chiosa@gmail.com
 
 🚀 I specialize in creating dynamic and responsive web applications with a focus on clean, efficient code and user-centric design. I'm always looking for new challenges and opportunities to grow my skills.
 
