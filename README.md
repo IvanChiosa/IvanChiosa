@@ -13,7 +13,7 @@
 - Frontend: HTML5, CSS, React, Vite, Axios, React Router Dom
 - Backend: Spring (including Spring Initializr, Spring Web, Spring Reactive Web, Spring Boot DevTools), Maven, Lombok
 - Database: MongoDB, NoSQL
-- DevOps: Docker, YML
+- DevOps: Docker, YAML
 - Testing: JUnit 5, Mockito, MockMvc
 - Frontend Styling: React Bootstrap, Font Awesome, React Player, MUI (Material-UI), Emotion, React Material-UI Carousel
   
