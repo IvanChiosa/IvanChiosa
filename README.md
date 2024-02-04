@@ -4,13 +4,14 @@ Als enthusiastischer Entwickler liebe ich die Welt der Programmierung. Meine Pro
 
 Auf meinem Profil finden Sie Einblicke in meine Kenntnisse, Fähigkeiten und Projekte. Lassen Sie uns gemeinsam Neues schaffen!
 
+<!--
 🌐 Web Developer | Weiterbildung from neue fische - School for Digital Talent
 🔗 [neue fische - Java Development Bootcamp](https://www.neuefische.de/bootcamp/java-development)
 
 🌐 Web Developer | Weiterbildung from Digital Career Institute
 🔗 [Digital Career Institute - Web Development Course](https://digitalcareerinstitute.org/courses/web-development/)
 
-
+-->
 🛠️ Skills:
 
 - Programming Languages: Java, JavaScript/TypeScript
