@@ -1,6 +1,4 @@
-👋 Hallo, mein Name ist Ivan.
-
-Herzlich willkommen auf meinem GitHub-Profil!
+👋 Hallo, mein Name ist Ivan. Herzlich willkommen auf meinem GitHub-Profil!
 
 Als enthusiastischer Entwickler liebe ich die Welt der Programmierung. Meine Projekte zeigen meine Leidenschaft für kreative Lösungen. Ich schätze jede Gelegenheit zur Zusammenarbeit und zum Lernen.
 
